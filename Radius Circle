@@ -1,0 +1,2 @@
+Radius = float(input(" Enter a Radius: "))
+Print(Radius*Radius*3.1428)
